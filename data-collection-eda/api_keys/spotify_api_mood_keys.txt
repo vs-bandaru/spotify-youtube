@@ -1,7 +1,7 @@
 API Key - 1
-client_id = '6ba77412410b46778b83e5b9dcfe7d0a'
-client_secret = 'e85d9f000a024f8b87460f847d4c54d9'
+client_id = 'your key'
+client_secret = 'your key'
 
 API Key - 2
-client_id = '641c0b36a2064b73af12eda64cc2abc5'
-client_secret = '21e0cb5f4b88437a814b923de89bbb4d'
+client_id = 'your key'
+client_secret = 'your key'
