@@ -1,0 +1,3 @@
+API Key - 1
+client_id = 'e21ae8429f404455a547adf8acd0f6d3'
+client_secret = 'ae5e5fcfd32448c6acc2055316eeb6d2'
